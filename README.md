@@ -2,7 +2,7 @@
 
 Blue Marble is a global topography and bathmetry provided by NASA.
 
-![blue marble](./top.jpg)
+![blue marble](./top.jpeg)
 
 Image origin: https://neo.sci.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG-TB
 
